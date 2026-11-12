@@ -6,7 +6,7 @@
 |---|---|
 | `NexaTech_Dashboard.pbip` | **Proyecto completo**: modelo, Power Query, medidas DAX, tema y las 2 páginas con sus visuales. Ábrelo primero. |
 | `NexaTech_ModeloBase.pbip` | Respaldo: el mismo modelo y las mismas medidas, con una página vacía. Úsalo solo si el anterior no abre. |
-| `Datos/` | Los 5 CSV que lee el modelo y un Excel (`NexaTech_Datos.xlsx`)|
+| `Datos/` | Los 5 CSV que lee el modelo y un Excel (`NexaTech_Datos.xlsx`).|
 | `Recursos/` | Tema de colores (`NexaTech_tema.json`), fondos de página y logo, para el armado manual. |
 | `Medidas_DAX.md` | Todo el modelo documentado: tablas, relaciones, pasos de Power Query y código de cada medida.
 
