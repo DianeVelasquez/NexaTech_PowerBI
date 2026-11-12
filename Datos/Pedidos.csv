@@ -1,0 +1,1235 @@
+ID_Pedido,Fecha,ID_Cliente,Ciudad,ID_Producto,Producto,Categoria,Cantidad,Precio_Unitario,Metodo_Pago
+NX-00001,2025-11-01,CL-0001,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00002,2025-11-04,CL-0002,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00003,2025-11-04,CL-0003,Cali,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta de crédito
+NX-00003,2025-11-04,CL-0003,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00004,2025-11-05,CL-0004,Cali,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta de crédito
+NX-00005,2025-11-05,CL-0005,Cali,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00006,2025-11-06,CL-0006,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00007,2025-11-06,CL-0007,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,2,75000,Tarjeta débito
+NX-00007,2025-11-06,CL-0007,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00008,2025-11-06,CL-0008,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00009,2025-11-07,CL-0009,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00010,2025-11-07,CL-0010,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00011,2025-11-08,CL-0011,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00012,2025-11-08,CL-0012,Medellín,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00013,2025-11-08,CL-0013,Barranquilla,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00014,2025-11-08,CL-0014,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00015,2025-11-09,CL-0015,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00016,2025-11-09,CL-0014,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00017,2025-11-10,CL-0016,Barranquilla,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00018,2025-11-11,CL-0017,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00018,2025-11-11,CL-0017,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00018,2025-11-11,CL-0017,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00019,2025-11-12,CL-0018,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00020,2025-11-13,CL-0019,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00021,2025-11-13,CL-0020,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00021,2025-11-13,CL-0020,Cali,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,2,1650000,Tarjeta de crédito
+NX-00022,2025-11-14,CL-0021,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00023,2025-11-15,CL-0022,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00024,2025-11-16,CL-0015,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00025,2025-11-18,CL-0023,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00026,2025-11-19,CL-0024,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00026,2025-11-19,CL-0024,Pereira,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00027,2025-11-19,CL-0025,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00027,2025-11-19,CL-0025,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00028,2025-11-19,CL-0026,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00028,2025-11-19,CL-0026,Cartagena,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00029,2025-11-20,CL-0003,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00030,2025-11-22,CL-0020,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00031,2025-11-22,CL-0027,Pereira,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00032,2025-11-23,CL-0028,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00032,2025-11-23,CL-0028,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00033,2025-11-23,CL-0029,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00034,2025-11-23,CL-0030,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00034,2025-11-23,CL-0030,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00035,2025-11-23,CL-0031,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00035,2025-11-23,CL-0031,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00035,2025-11-23,CL-0031,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00035,2025-11-23,CL-0031,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00035,2025-11-23,CL-0031,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00036,2025-11-24,CL-0032,Cartagena,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00037,2025-11-24,CL-0033,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00037,2025-11-24,CL-0033,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00038,2025-11-25,CL-0019,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00038,2025-11-25,CL-0019,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00039,2025-11-25,CL-0011,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00039,2025-11-25,CL-0011,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00039,2025-11-25,CL-0011,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00039,2025-11-25,CL-0011,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00039,2025-11-25,CL-0011,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00039,2025-11-25,CL-0011,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00040,2025-11-25,CL-0011,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00041,2025-11-25,CL-0034,Pereira,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00042,2025-11-26,CL-0015,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00043,2025-11-26,CL-0019,Medellín,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta débito
+NX-00044,2025-11-27,CL-0035,Cali,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta débito
+NX-00044,2025-11-27,CL-0035,Cali,P19,Parlantes compactos RGB,Accesorios,1,40500,Tarjeta débito
+NX-00045,2025-11-27,CL-0036,Medellín,P11,Teclado USB Multilaser,Periféricos,1,31500,Tarjeta débito
+NX-00046,2025-11-27,CL-0037,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,144000,Tarjeta débito
+NX-00047,2025-11-27,CL-0032,Cartagena,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1251000,Tarjeta de crédito
+NX-00048,2025-11-28,CL-0038,Cali,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta débito
+NX-00049,2025-11-28,CL-0039,Barranquilla,P11,Teclado USB Multilaser,Periféricos,2,31500,Tarjeta de crédito
+NX-00049,2025-11-28,CL-0039,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,27000,Tarjeta de crédito
+NX-00050,2025-11-28,CL-0040,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,2,1485000,Tarjeta débito
+NX-00051,2025-11-28,CL-0041,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,369000,Tarjeta de crédito
+NX-00052,2025-11-28,CL-0042,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,67500,Tarjeta débito
+NX-00052,2025-11-28,CL-0042,Bucaramanga,P17,Cámara web USB,Accesorios,1,58500,Tarjeta débito
+NX-00052,2025-11-28,CL-0042,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,27000,Tarjeta débito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,369000,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,56300,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,315000,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,180000,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,252000,Tarjeta de crédito
+NX-00053,2025-11-28,CL-0043,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,144000,Tarjeta de crédito
+NX-00054,2025-11-28,CL-0013,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,67500,Tarjeta débito
+NX-00054,2025-11-28,CL-0013,Barranquilla,P17,Cámara web USB,Accesorios,1,58500,Tarjeta débito
+NX-00055,2025-11-29,CL-0004,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,27000,Tarjeta débito
+NX-00056,2025-11-29,CL-0044,Cali,P21,Computador de escritorio Acer Core i5,Computadores,1,1710000,Tarjeta de crédito
+NX-00057,2025-11-29,CL-0045,Bogotá,P19,Parlantes compactos RGB,Accesorios,2,40500,Tarjeta de crédito
+NX-00058,2025-11-29,CL-0034,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,27000,Tarjeta de crédito
+NX-00058,2025-11-29,CL-0034,Pereira,P19,Parlantes compactos RGB,Accesorios,1,40500,Tarjeta de crédito
+NX-00059,2025-11-29,CL-0046,Cartagena,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,252000,Tarjeta débito
+NX-00060,2025-11-29,CL-0031,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,40500,Tarjeta de crédito
+NX-00061,2025-11-29,CL-0047,Bogotá,P11,Teclado USB Multilaser,Periféricos,3,31500,Tarjeta débito
+NX-00061,2025-11-29,CL-0047,Bogotá,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta débito
+NX-00062,2025-11-30,CL-0048,Bogotá,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta débito
+NX-00063,2025-11-30,CL-0049,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,822600,Tarjeta de crédito
+NX-00064,2025-11-30,CL-0050,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,252000,Tarjeta débito
+NX-00064,2025-11-30,CL-0050,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,85500,Tarjeta débito
+NX-00065,2025-11-30,CL-0006,Bogotá,P17,Cámara web USB,Accesorios,1,58500,Tarjeta de crédito
+NX-00066,2025-11-30,CL-0051,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,27000,Tarjeta de crédito
+NX-00067,2025-11-30,CL-0052,Cartagena,P12,Mouse gamer RGB,Periféricos,1,40500,Tarjeta de crédito
+NX-00068,2025-11-30,CL-0053,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,180000,Tarjeta débito
+NX-00069,2025-12-01,CL-0054,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00070,2025-12-01,CL-0036,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00071,2025-12-01,CL-0055,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta de crédito
+NX-00072,2025-12-01,CL-0056,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00073,2025-12-01,CL-0057,Pereira,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00074,2025-12-02,CL-0058,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00074,2025-12-02,CL-0058,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00074,2025-12-02,CL-0058,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00074,2025-12-02,CL-0058,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00074,2025-12-02,CL-0058,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00075,2025-12-02,CL-0059,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00076,2025-12-02,CL-0060,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00077,2025-12-02,CL-0061,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00077,2025-12-02,CL-0061,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00078,2025-12-03,CL-0062,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00078,2025-12-03,CL-0062,Barranquilla,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00079,2025-12-03,CL-0063,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00079,2025-12-03,CL-0063,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00080,2025-12-03,CL-0064,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00081,2025-12-03,CL-0065,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00081,2025-12-03,CL-0065,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00082,2025-12-04,CL-0066,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00083,2025-12-04,CL-0067,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00084,2025-12-04,CL-0068,Bogotá,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta débito
+NX-00085,2025-12-04,CL-0069,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00086,2025-12-05,CL-0014,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00087,2025-12-06,CL-0034,Pereira,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00088,2025-12-06,CL-0070,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00088,2025-12-06,CL-0070,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00088,2025-12-06,CL-0070,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00088,2025-12-06,CL-0070,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00088,2025-12-06,CL-0070,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00089,2025-12-07,CL-0071,Cali,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00090,2025-12-07,CL-0054,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00091,2025-12-08,CL-0072,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00091,2025-12-08,CL-0072,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00091,2025-12-08,CL-0072,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00092,2025-12-08,CL-0063,Cali,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00093,2025-12-09,CL-0030,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00093,2025-12-09,CL-0030,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00094,2025-12-09,CL-0073,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00095,2025-12-10,CL-0029,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00096,2025-12-12,CL-0014,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00096,2025-12-12,CL-0014,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00096,2025-12-12,CL-0014,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00097,2025-12-12,CL-0074,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00097,2025-12-12,CL-0074,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta débito
+NX-00098,2025-12-12,CL-0075,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00098,2025-12-12,CL-0075,Cali,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00099,2025-12-13,CL-0029,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00099,2025-12-13,CL-0029,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00099,2025-12-13,CL-0029,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00099,2025-12-13,CL-0029,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00099,2025-12-13,CL-0029,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00099,2025-12-13,CL-0029,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00100,2025-12-13,CL-0076,Medellín,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00101,2025-12-14,CL-0077,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00101,2025-12-14,CL-0077,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00101,2025-12-14,CL-0077,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00102,2025-12-14,CL-0078,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00103,2025-12-14,CL-0079,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00103,2025-12-14,CL-0079,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00104,2025-12-14,CL-0080,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00104,2025-12-14,CL-0080,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00105,2025-12-14,CL-0008,Barranquilla,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00106,2025-12-14,CL-0081,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00107,2025-12-15,CL-0082,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta débito
+NX-00108,2025-12-15,CL-0083,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00108,2025-12-15,CL-0083,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00109,2025-12-16,CL-0084,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00109,2025-12-16,CL-0084,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00110,2025-12-16,CL-0085,Barranquilla,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00111,2025-12-17,CL-0022,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00112,2025-12-17,CL-0086,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00112,2025-12-17,CL-0086,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00113,2025-12-18,CL-0087,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00113,2025-12-18,CL-0087,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00113,2025-12-18,CL-0087,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00114,2025-12-18,CL-0088,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00114,2025-12-18,CL-0088,Cali,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00115,2025-12-19,CL-0089,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00116,2025-12-19,CL-0090,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00116,2025-12-19,CL-0090,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00117,2025-12-19,CL-0091,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00117,2025-12-19,CL-0091,Bucaramanga,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00118,2025-12-19,CL-0088,Cali,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,2,1650000,Tarjeta de crédito
+NX-00119,2025-12-19,CL-0092,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00120,2025-12-19,CL-0093,Cartagena,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00120,2025-12-19,CL-0093,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00121,2025-12-19,CL-0027,Pereira,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00121,2025-12-19,CL-0027,Pereira,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00122,2025-12-20,CL-0066,Barranquilla,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00123,2025-12-21,CL-0094,Cartagena,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00124,2025-12-21,CL-0095,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,2,1900000,Tarjeta de crédito
+NX-00125,2025-12-21,CL-0096,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00126,2025-12-21,CL-0091,Bucaramanga,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00127,2025-12-21,CL-0090,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00127,2025-12-21,CL-0090,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00128,2025-12-21,CL-0097,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00129,2025-12-21,CL-0098,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta de crédito
+NX-00130,2025-12-22,CL-0099,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00131,2025-12-22,CL-0100,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00132,2025-12-23,CL-0049,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00133,2025-12-23,CL-0101,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00134,2025-12-23,CL-0102,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00135,2025-12-23,CL-0103,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00136,2025-12-24,CL-0104,Barranquilla,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00137,2025-12-24,CL-0029,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00137,2025-12-24,CL-0029,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00138,2025-12-24,CL-0052,Cartagena,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta de crédito
+NX-00139,2025-12-24,CL-0055,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00140,2025-12-25,CL-0105,Bucaramanga,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00141,2025-12-25,CL-0106,Barranquilla,P11,Teclado USB Multilaser,Periféricos,3,35000,Tarjeta débito
+NX-00142,2025-12-26,CL-0084,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00143,2025-12-27,CL-0107,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00144,2025-12-27,CL-0108,Barranquilla,P11,Teclado USB Multilaser,Periféricos,3,35000,Tarjeta débito
+NX-00145,2025-12-28,CL-0109,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00145,2025-12-28,CL-0109,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00146,2025-12-28,CL-0020,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00147,2025-12-29,CL-0110,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00148,2025-12-29,CL-0077,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00149,2025-12-29,CL-0029,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00150,2025-12-30,CL-0111,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00151,2025-12-30,CL-0112,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00152,2025-12-30,CL-0113,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00153,2025-12-31,CL-0040,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00154,2025-12-31,CL-0114,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00154,2025-12-31,CL-0114,Bogotá,P17,Cámara web USB,Accesorios,2,65000,Tarjeta débito
+NX-00155,2025-12-31,CL-0115,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,2,75000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00156,2025-12-31,CL-0116,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00157,2026-01-01,CL-0117,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00158,2026-01-02,CL-0118,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00158,2026-01-02,CL-0118,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00159,2026-01-02,CL-0119,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00160,2026-01-03,CL-0120,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00160,2026-01-03,CL-0120,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00160,2026-01-03,CL-0120,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00161,2026-01-03,CL-0121,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00162,2026-01-03,CL-0122,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00162,2026-01-03,CL-0122,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00162,2026-01-03,CL-0122,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00163,2026-01-03,CL-0042,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00163,2026-01-03,CL-0042,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00164,2026-01-03,CL-0123,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00165,2026-01-04,CL-0087,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00165,2026-01-04,CL-0087,Bogotá,P19,Parlantes compactos RGB,Accesorios,2,45000,Tarjeta débito
+NX-00166,2026-01-05,CL-0124,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00167,2026-01-07,CL-0125,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00167,2026-01-07,CL-0125,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00168,2026-01-07,CL-0108,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00168,2026-01-07,CL-0108,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00169,2026-01-08,CL-0126,Bogotá,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00170,2026-01-08,CL-0127,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00170,2026-01-08,CL-0127,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00171,2026-01-08,CL-0128,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00172,2026-01-09,CL-0129,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00173,2026-01-09,CL-0130,Bogotá,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00173,2026-01-09,CL-0130,Bogotá,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00174,2026-01-10,CL-0131,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00174,2026-01-10,CL-0131,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00175,2026-01-10,CL-0132,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00176,2026-01-10,CL-0133,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00177,2026-01-10,CL-0134,Pereira,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00178,2026-01-11,CL-0135,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00178,2026-01-11,CL-0135,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00179,2026-01-11,CL-0036,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00179,2026-01-11,CL-0036,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00179,2026-01-11,CL-0036,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00179,2026-01-11,CL-0036,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00179,2026-01-11,CL-0036,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00179,2026-01-11,CL-0036,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00180,2026-01-12,CL-0011,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00180,2026-01-12,CL-0011,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00180,2026-01-12,CL-0011,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00181,2026-01-14,CL-0136,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00182,2026-01-15,CL-0137,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00183,2026-01-15,CL-0138,Medellín,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta débito
+NX-00184,2026-01-15,CL-0139,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00184,2026-01-15,CL-0139,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00185,2026-01-20,CL-0103,Medellín,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta débito
+NX-00186,2026-01-20,CL-0140,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00186,2026-01-20,CL-0140,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00187,2026-01-20,CL-0104,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00187,2026-01-20,CL-0104,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00187,2026-01-20,CL-0104,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00188,2026-01-21,CL-0041,Bucaramanga,P17,Cámara web USB,Accesorios,2,65000,Tarjeta de crédito
+NX-00189,2026-01-21,CL-0141,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00189,2026-01-21,CL-0141,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00190,2026-01-23,CL-0091,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00190,2026-01-23,CL-0091,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00191,2026-01-23,CL-0142,Cali,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00192,2026-01-24,CL-0143,Barranquilla,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00193,2026-01-24,CL-0120,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,2,1650000,Tarjeta de crédito
+NX-00194,2026-01-24,CL-0108,Barranquilla,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00194,2026-01-24,CL-0108,Barranquilla,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00195,2026-01-25,CL-0144,Barranquilla,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00196,2026-01-25,CL-0145,Bogotá,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00197,2026-01-25,CL-0146,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00198,2026-01-26,CL-0147,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00198,2026-01-26,CL-0147,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00199,2026-01-26,CL-0078,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00200,2026-01-26,CL-0148,Pereira,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00201,2026-01-27,CL-0149,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00201,2026-01-27,CL-0149,Cartagena,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00202,2026-01-28,CL-0150,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00203,2026-01-28,CL-0039,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00203,2026-01-28,CL-0039,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00204,2026-01-29,CL-0151,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00205,2026-01-29,CL-0152,Cartagena,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00205,2026-01-29,CL-0152,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00206,2026-01-30,CL-0153,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00206,2026-01-30,CL-0153,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00207,2026-01-30,CL-0154,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00207,2026-01-30,CL-0154,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00208,2026-01-30,CL-0155,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00209,2026-01-30,CL-0156,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00209,2026-01-30,CL-0156,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta débito
+NX-00210,2026-01-31,CL-0052,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00210,2026-01-31,CL-0052,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00211,2026-01-31,CL-0157,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00212,2026-02-01,CL-0158,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta débito
+NX-00213,2026-02-01,CL-0159,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00213,2026-02-01,CL-0159,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00213,2026-02-01,CL-0159,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00214,2026-02-01,CL-0032,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00215,2026-02-01,CL-0160,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,2,30000,Tarjeta débito
+NX-00216,2026-02-03,CL-0161,Cartagena,P17,Cámara web USB,Accesorios,2,65000,Tarjeta débito
+NX-00216,2026-02-03,CL-0161,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00217,2026-02-03,CL-0056,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00218,2026-02-04,CL-0162,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00219,2026-02-04,CL-0157,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00220,2026-02-04,CL-0163,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00221,2026-02-04,CL-0164,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00222,2026-02-04,CL-0165,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00223,2026-02-05,CL-0166,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta débito
+NX-00224,2026-02-05,CL-0050,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00224,2026-02-05,CL-0050,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00224,2026-02-05,CL-0050,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00225,2026-02-05,CL-0167,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00226,2026-02-06,CL-0168,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00226,2026-02-06,CL-0168,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00226,2026-02-06,CL-0168,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00226,2026-02-06,CL-0168,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00226,2026-02-06,CL-0168,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00227,2026-02-06,CL-0169,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,2,30000,Tarjeta débito
+NX-00228,2026-02-06,CL-0170,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,3,30000,Tarjeta de crédito
+NX-00229,2026-02-07,CL-0171,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00230,2026-02-07,CL-0172,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00231,2026-02-07,CL-0173,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00231,2026-02-07,CL-0173,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00231,2026-02-07,CL-0173,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00232,2026-02-07,CL-0174,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00232,2026-02-07,CL-0174,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,2,75000,Tarjeta débito
+NX-00233,2026-02-08,CL-0032,Cartagena,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00233,2026-02-08,CL-0032,Cartagena,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00234,2026-02-09,CL-0175,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta de crédito
+NX-00235,2026-02-10,CL-0176,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00235,2026-02-10,CL-0176,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00236,2026-02-10,CL-0177,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00237,2026-02-10,CL-0041,Bucaramanga,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00238,2026-02-10,CL-0178,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00239,2026-02-11,CL-0179,Barranquilla,P11,Teclado USB Multilaser,Periféricos,6,35000,Tarjeta débito
+NX-00240,2026-02-11,CL-0180,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00241,2026-02-12,CL-0181,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta débito
+NX-00242,2026-02-13,CL-0182,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00242,2026-02-13,CL-0182,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00243,2026-02-13,CL-0095,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00243,2026-02-13,CL-0095,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00244,2026-02-13,CL-0183,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta de crédito
+NX-00245,2026-02-13,CL-0184,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00245,2026-02-13,CL-0184,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00246,2026-02-14,CL-0185,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00247,2026-02-14,CL-0186,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00247,2026-02-14,CL-0186,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00248,2026-02-14,CL-0187,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00249,2026-02-15,CL-0188,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00249,2026-02-15,CL-0188,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00249,2026-02-15,CL-0188,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00250,2026-02-15,CL-0147,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00251,2026-02-15,CL-0189,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00251,2026-02-15,CL-0189,Pereira,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00252,2026-02-15,CL-0190,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00252,2026-02-15,CL-0190,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00253,2026-02-16,CL-0191,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00254,2026-02-16,CL-0192,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00255,2026-02-16,CL-0193,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00256,2026-02-17,CL-0194,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00257,2026-02-17,CL-0195,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00257,2026-02-17,CL-0195,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00257,2026-02-17,CL-0195,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00258,2026-02-17,CL-0196,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00258,2026-02-17,CL-0196,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00259,2026-02-18,CL-0197,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00260,2026-02-18,CL-0198,Bogotá,P11,Teclado USB Multilaser,Periféricos,6,35000,Tarjeta débito
+NX-00261,2026-02-19,CL-0073,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00262,2026-02-20,CL-0199,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00262,2026-02-20,CL-0199,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00262,2026-02-20,CL-0199,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00262,2026-02-20,CL-0199,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00263,2026-02-20,CL-0200,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00264,2026-02-21,CL-0201,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00264,2026-02-21,CL-0201,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00265,2026-02-21,CL-0202,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00266,2026-02-22,CL-0203,Cartagena,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta débito
+NX-00267,2026-02-22,CL-0204,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00268,2026-02-22,CL-0205,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00269,2026-02-22,CL-0206,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00269,2026-02-22,CL-0206,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00269,2026-02-22,CL-0206,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00270,2026-02-22,CL-0207,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00270,2026-02-22,CL-0207,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00271,2026-02-23,CL-0208,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00272,2026-02-24,CL-0181,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00273,2026-02-24,CL-0140,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,3,30000,Tarjeta de crédito
+NX-00274,2026-02-25,CL-0209,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00274,2026-02-25,CL-0209,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00275,2026-02-25,CL-0210,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00276,2026-02-26,CL-0036,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00276,2026-02-26,CL-0036,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00277,2026-02-26,CL-0211,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00278,2026-02-26,CL-0212,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00278,2026-02-26,CL-0212,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00279,2026-02-27,CL-0213,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00279,2026-02-27,CL-0213,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00280,2026-02-28,CL-0101,Barranquilla,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00281,2026-02-28,CL-0040,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00282,2026-02-28,CL-0100,Barranquilla,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00283,2026-03-01,CL-0010,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00284,2026-03-02,CL-0214,Barranquilla,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta débito
+NX-00285,2026-03-03,CL-0215,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00285,2026-03-03,CL-0215,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00286,2026-03-04,CL-0216,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00287,2026-03-04,CL-0114,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00287,2026-03-04,CL-0114,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00287,2026-03-04,CL-0114,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00287,2026-03-04,CL-0114,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00287,2026-03-04,CL-0114,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00287,2026-03-04,CL-0114,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00288,2026-03-06,CL-0217,Cali,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00289,2026-03-07,CL-0218,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00290,2026-03-08,CL-0219,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00290,2026-03-08,CL-0219,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00290,2026-03-08,CL-0219,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00290,2026-03-08,CL-0219,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00291,2026-03-08,CL-0220,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00291,2026-03-08,CL-0220,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00292,2026-03-09,CL-0221,Barranquilla,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00293,2026-03-09,CL-0222,Bogotá,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00294,2026-03-09,CL-0223,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00294,2026-03-09,CL-0223,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00295,2026-03-09,CL-0224,Barranquilla,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta débito
+NX-00296,2026-03-09,CL-0225,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00296,2026-03-09,CL-0225,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00297,2026-03-10,CL-0226,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00297,2026-03-10,CL-0226,Pereira,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00298,2026-03-12,CL-0014,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00299,2026-03-12,CL-0227,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00299,2026-03-12,CL-0227,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00300,2026-03-13,CL-0148,Pereira,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00301,2026-03-13,CL-0007,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00301,2026-03-13,CL-0007,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00301,2026-03-13,CL-0007,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00302,2026-03-15,CL-0228,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00303,2026-03-18,CL-0106,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00304,2026-03-18,CL-0229,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00305,2026-03-19,CL-0230,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00306,2026-03-20,CL-0211,Bogotá,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00307,2026-03-20,CL-0149,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00308,2026-03-21,CL-0231,Cali,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00308,2026-03-21,CL-0231,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00308,2026-03-21,CL-0231,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00308,2026-03-21,CL-0231,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00308,2026-03-21,CL-0231,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00308,2026-03-21,CL-0231,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00309,2026-03-22,CL-0232,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00310,2026-03-22,CL-0233,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00311,2026-03-23,CL-0073,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00311,2026-03-23,CL-0073,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00312,2026-03-24,CL-0234,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00312,2026-03-24,CL-0234,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00312,2026-03-24,CL-0234,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00312,2026-03-24,CL-0234,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00312,2026-03-24,CL-0234,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00312,2026-03-24,CL-0234,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00313,2026-03-24,CL-0235,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00314,2026-03-25,CL-0236,Bucaramanga,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00315,2026-03-27,CL-0237,Bucaramanga,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta de crédito
+NX-00316,2026-03-27,CL-0238,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00317,2026-03-28,CL-0207,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00317,2026-03-28,CL-0207,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00318,2026-03-29,CL-0017,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00318,2026-03-29,CL-0017,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00319,2026-03-30,CL-0118,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00319,2026-03-30,CL-0118,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00320,2026-03-30,CL-0239,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00321,2026-03-31,CL-0240,Cali,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00322,2026-04-01,CL-0146,Bogotá,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00323,2026-04-02,CL-0091,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00324,2026-04-05,CL-0241,Cartagena,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00325,2026-04-05,CL-0242,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00325,2026-04-05,CL-0242,Bucaramanga,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00326,2026-04-05,CL-0243,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00327,2026-04-06,CL-0146,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00327,2026-04-06,CL-0146,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00328,2026-04-06,CL-0113,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00329,2026-04-07,CL-0244,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00329,2026-04-07,CL-0244,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00330,2026-04-09,CL-0245,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00331,2026-04-09,CL-0246,Pereira,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00332,2026-04-09,CL-0044,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00332,2026-04-09,CL-0044,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00333,2026-04-10,CL-0247,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00333,2026-04-10,CL-0247,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00334,2026-04-10,CL-0248,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00334,2026-04-10,CL-0248,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00335,2026-04-11,CL-0249,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00336,2026-04-11,CL-0250,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00337,2026-04-11,CL-0249,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00338,2026-04-12,CL-0251,Cali,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta de crédito
+NX-00339,2026-04-12,CL-0252,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00339,2026-04-12,CL-0252,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00340,2026-04-13,CL-0253,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00340,2026-04-13,CL-0253,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00341,2026-04-14,CL-0254,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00341,2026-04-14,CL-0254,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00341,2026-04-14,CL-0254,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00342,2026-04-15,CL-0255,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00342,2026-04-15,CL-0255,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00342,2026-04-15,CL-0255,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00343,2026-04-15,CL-0256,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00344,2026-04-15,CL-0257,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00345,2026-04-16,CL-0258,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00346,2026-04-16,CL-0224,Barranquilla,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta débito
+NX-00347,2026-04-16,CL-0135,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00348,2026-04-17,CL-0259,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00349,2026-04-17,CL-0260,Cartagena,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00349,2026-04-17,CL-0260,Cartagena,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00350,2026-04-18,CL-0261,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00351,2026-04-18,CL-0262,Pereira,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00352,2026-04-18,CL-0263,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00352,2026-04-18,CL-0263,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00353,2026-04-19,CL-0264,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00353,2026-04-19,CL-0264,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00353,2026-04-19,CL-0264,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00354,2026-04-19,CL-0265,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00354,2026-04-19,CL-0265,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00354,2026-04-19,CL-0265,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00355,2026-04-19,CL-0266,Cali,P11,Teclado USB Multilaser,Periféricos,2,35000,Tarjeta débito
+NX-00356,2026-04-19,CL-0267,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00357,2026-04-19,CL-0074,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00358,2026-04-20,CL-0169,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00358,2026-04-20,CL-0169,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00359,2026-04-20,CL-0183,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00359,2026-04-20,CL-0183,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00360,2026-04-20,CL-0268,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00360,2026-04-20,CL-0268,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00360,2026-04-20,CL-0268,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00361,2026-04-21,CL-0269,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00362,2026-04-21,CL-0270,Cali,P19,Parlantes compactos RGB,Accesorios,2,45000,Tarjeta de crédito
+NX-00363,2026-04-23,CL-0271,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00364,2026-04-23,CL-0108,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00365,2026-04-25,CL-0272,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00366,2026-04-25,CL-0129,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00366,2026-04-25,CL-0129,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00366,2026-04-25,CL-0129,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00367,2026-04-26,CL-0273,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00367,2026-04-26,CL-0273,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00368,2026-04-27,CL-0274,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00369,2026-04-28,CL-0275,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00370,2026-04-28,CL-0276,Bogotá,P11,Teclado USB Multilaser,Periféricos,4,35000,Tarjeta de crédito
+NX-00370,2026-04-28,CL-0276,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00371,2026-04-30,CL-0277,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00372,2026-04-30,CL-0278,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00373,2026-04-30,CL-0279,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00374,2026-05-01,CL-0280,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00375,2026-05-02,CL-0281,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00376,2026-05-02,CL-0282,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00377,2026-05-03,CL-0044,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00377,2026-05-03,CL-0044,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00377,2026-05-03,CL-0044,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00378,2026-05-04,CL-0283,Medellín,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta débito
+NX-00379,2026-05-05,CL-0284,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00380,2026-05-06,CL-0174,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00380,2026-05-06,CL-0174,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00381,2026-05-08,CL-0285,Medellín,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00382,2026-05-08,CL-0286,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00383,2026-05-09,CL-0287,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00383,2026-05-09,CL-0287,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00384,2026-05-09,CL-0019,Medellín,P17,Cámara web USB,Accesorios,2,65000,Tarjeta de crédito
+NX-00384,2026-05-09,CL-0019,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00385,2026-05-10,CL-0288,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00386,2026-05-10,CL-0289,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00387,2026-05-10,CL-0290,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00387,2026-05-10,CL-0290,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00388,2026-05-10,CL-0291,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00388,2026-05-10,CL-0291,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00389,2026-05-11,CL-0292,Pereira,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00390,2026-05-11,CL-0293,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00391,2026-05-12,CL-0294,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00392,2026-05-12,CL-0238,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00392,2026-05-12,CL-0238,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00393,2026-05-13,CL-0295,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00393,2026-05-13,CL-0295,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00394,2026-05-14,CL-0296,Cartagena,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00394,2026-05-14,CL-0296,Cartagena,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00395,2026-05-14,CL-0297,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00395,2026-05-14,CL-0297,Pereira,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00396,2026-05-15,CL-0298,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00397,2026-05-16,CL-0299,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00397,2026-05-16,CL-0299,Barranquilla,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00398,2026-05-16,CL-0300,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00398,2026-05-16,CL-0300,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00399,2026-05-16,CL-0301,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00400,2026-05-16,CL-0302,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00401,2026-05-16,CL-0303,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00401,2026-05-16,CL-0303,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00402,2026-05-17,CL-0304,Pereira,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00402,2026-05-17,CL-0304,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00403,2026-05-17,CL-0305,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00404,2026-05-17,CL-0246,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00405,2026-05-17,CL-0306,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00405,2026-05-17,CL-0306,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00406,2026-05-18,CL-0181,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00407,2026-05-18,CL-0052,Cartagena,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00407,2026-05-18,CL-0052,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00408,2026-05-18,CL-0307,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00408,2026-05-18,CL-0307,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00409,2026-05-18,CL-0308,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00410,2026-05-19,CL-0188,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00411,2026-05-20,CL-0309,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00412,2026-05-20,CL-0280,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00413,2026-05-20,CL-0310,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00414,2026-05-21,CL-0311,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00415,2026-05-23,CL-0312,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00415,2026-05-23,CL-0312,Cartagena,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00416,2026-05-24,CL-0097,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00416,2026-05-24,CL-0097,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00416,2026-05-24,CL-0097,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00417,2026-05-24,CL-0313,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00418,2026-05-26,CL-0255,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00419,2026-05-26,CL-0045,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00420,2026-05-27,CL-0314,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00421,2026-05-27,CL-0315,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00422,2026-05-27,CL-0099,Cali,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta débito
+NX-00423,2026-05-28,CL-0316,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00423,2026-05-28,CL-0316,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00424,2026-05-28,CL-0317,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00424,2026-05-28,CL-0317,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00425,2026-05-29,CL-0318,Medellín,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00426,2026-05-30,CL-0319,Bucaramanga,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00427,2026-05-31,CL-0320,Bucaramanga,P19,Parlantes compactos RGB,Accesorios,3,45000,Tarjeta débito
+NX-00428,2026-05-31,CL-0321,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00429,2026-06-01,CL-0217,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00430,2026-06-01,CL-0322,Bogotá,P11,Teclado USB Multilaser,Periféricos,2,35000,Tarjeta débito
+NX-00431,2026-06-02,CL-0323,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00431,2026-06-02,CL-0323,Barranquilla,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00432,2026-06-02,CL-0324,Cali,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00433,2026-06-04,CL-0276,Bogotá,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta débito
+NX-00433,2026-06-04,CL-0276,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00434,2026-06-04,CL-0325,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00435,2026-06-04,CL-0326,Bogotá,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta débito
+NX-00435,2026-06-04,CL-0326,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00436,2026-06-04,CL-0327,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00437,2026-06-05,CL-0066,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00438,2026-06-05,CL-0328,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00439,2026-06-06,CL-0329,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00440,2026-06-06,CL-0330,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00440,2026-06-06,CL-0330,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00441,2026-06-06,CL-0331,Cali,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00441,2026-06-06,CL-0331,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00441,2026-06-06,CL-0331,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00441,2026-06-06,CL-0331,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00441,2026-06-06,CL-0331,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00441,2026-06-06,CL-0331,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00442,2026-06-06,CL-0332,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00443,2026-06-08,CL-0333,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00443,2026-06-08,CL-0333,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00444,2026-06-08,CL-0334,Medellín,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00445,2026-06-08,CL-0335,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00446,2026-06-09,CL-0336,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00447,2026-06-12,CL-0337,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00448,2026-06-13,CL-0338,Pereira,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00449,2026-06-13,CL-0339,Pereira,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00449,2026-06-13,CL-0339,Pereira,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00450,2026-06-13,CL-0340,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00451,2026-06-13,CL-0341,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00452,2026-06-13,CL-0342,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00453,2026-06-13,CL-0343,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00453,2026-06-13,CL-0343,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00454,2026-06-13,CL-0344,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00455,2026-06-14,CL-0345,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00456,2026-06-14,CL-0225,Cali,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta débito
+NX-00456,2026-06-14,CL-0225,Cali,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta débito
+NX-00457,2026-06-14,CL-0346,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00458,2026-06-14,CL-0347,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00459,2026-06-14,CL-0127,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00459,2026-06-14,CL-0127,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00460,2026-06-14,CL-0348,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00461,2026-06-15,CL-0215,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00461,2026-06-15,CL-0215,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00462,2026-06-15,CL-0349,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00463,2026-06-15,CL-0350,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00463,2026-06-15,CL-0350,Cali,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00464,2026-06-15,CL-0351,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00464,2026-06-15,CL-0351,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00465,2026-06-16,CL-0352,Bogotá,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00466,2026-06-16,CL-0353,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00466,2026-06-16,CL-0353,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta de crédito
+NX-00467,2026-06-16,CL-0354,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00467,2026-06-16,CL-0354,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00468,2026-06-16,CL-0355,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00468,2026-06-16,CL-0355,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00469,2026-06-17,CL-0140,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00470,2026-06-17,CL-0139,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00470,2026-06-17,CL-0139,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00471,2026-06-17,CL-0356,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00472,2026-06-17,CL-0224,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00473,2026-06-19,CL-0357,Bogotá,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta débito
+NX-00474,2026-06-19,CL-0358,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00475,2026-06-20,CL-0359,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00475,2026-06-20,CL-0359,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00476,2026-06-20,CL-0027,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00477,2026-06-20,CL-0360,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00477,2026-06-20,CL-0360,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00478,2026-06-20,CL-0361,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00479,2026-06-20,CL-0362,Bogotá,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta de crédito
+NX-00480,2026-06-20,CL-0320,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00481,2026-06-20,CL-0363,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00482,2026-06-21,CL-0303,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00482,2026-06-21,CL-0303,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00483,2026-06-21,CL-0074,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00483,2026-06-21,CL-0074,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00483,2026-06-21,CL-0074,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00483,2026-06-21,CL-0074,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00483,2026-06-21,CL-0074,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00484,2026-06-21,CL-0364,Cali,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta débito
+NX-00485,2026-06-21,CL-0365,Cali,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta de crédito
+NX-00485,2026-06-21,CL-0365,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00486,2026-06-23,CL-0366,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00486,2026-06-23,CL-0366,Barranquilla,P19,Parlantes compactos RGB,Accesorios,3,45000,Tarjeta débito
+NX-00487,2026-06-23,CL-0367,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00488,2026-06-23,CL-0368,Cali,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta de crédito
+NX-00489,2026-06-23,CL-0366,Barranquilla,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00489,2026-06-23,CL-0366,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00490,2026-06-24,CL-0369,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta de crédito
+NX-00491,2026-06-24,CL-0370,Bucaramanga,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00492,2026-06-24,CL-0324,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00493,2026-06-26,CL-0371,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00494,2026-06-26,CL-0372,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00495,2026-06-27,CL-0373,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00495,2026-06-27,CL-0373,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00496,2026-06-27,CL-0374,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00497,2026-06-28,CL-0375,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00498,2026-06-29,CL-0099,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00499,2026-06-29,CL-0164,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00499,2026-06-29,CL-0164,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00500,2026-06-30,CL-0147,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00501,2026-06-30,CL-0376,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00502,2026-06-30,CL-0377,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00503,2026-06-30,CL-0378,Medellín,P17,Cámara web USB,Accesorios,2,65000,Tarjeta débito
+NX-00503,2026-06-30,CL-0378,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00504,2026-06-30,CL-0379,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00505,2026-06-30,CL-0267,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00506,2026-06-30,CL-0380,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00506,2026-06-30,CL-0380,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00506,2026-06-30,CL-0380,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00507,2026-06-30,CL-0239,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00508,2026-07-01,CL-0381,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00508,2026-07-01,CL-0381,Cali,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00509,2026-07-02,CL-0382,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00510,2026-07-03,CL-0258,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00510,2026-07-03,CL-0258,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00511,2026-07-03,CL-0383,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00511,2026-07-03,CL-0383,Barranquilla,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00512,2026-07-03,CL-0375,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00513,2026-07-04,CL-0242,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00513,2026-07-04,CL-0242,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00513,2026-07-04,CL-0242,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00513,2026-07-04,CL-0242,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00513,2026-07-04,CL-0242,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00514,2026-07-04,CL-0384,Cali,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00515,2026-07-04,CL-0385,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00515,2026-07-04,CL-0385,Pereira,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00516,2026-07-04,CL-0339,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00517,2026-07-04,CL-0386,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00517,2026-07-04,CL-0386,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00518,2026-07-04,CL-0387,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta débito
+NX-00519,2026-07-05,CL-0388,Cali,P11,Teclado USB Multilaser,Periféricos,4,35000,Tarjeta de crédito
+NX-00520,2026-07-05,CL-0389,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00520,2026-07-05,CL-0389,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00521,2026-07-05,CL-0390,Medellín,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta débito
+NX-00522,2026-07-05,CL-0391,Cartagena,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00523,2026-07-06,CL-0392,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00524,2026-07-08,CL-0032,Cartagena,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00525,2026-07-10,CL-0393,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00525,2026-07-10,CL-0393,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00526,2026-07-10,CL-0394,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00527,2026-07-12,CL-0395,Medellín,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00528,2026-07-12,CL-0396,Barranquilla,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00529,2026-07-12,CL-0397,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00530,2026-07-14,CL-0398,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00531,2026-07-15,CL-0003,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00531,2026-07-15,CL-0003,Cali,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00532,2026-07-15,CL-0399,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00533,2026-07-15,CL-0286,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00533,2026-07-15,CL-0286,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00533,2026-07-15,CL-0286,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00533,2026-07-15,CL-0286,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00534,2026-07-15,CL-0400,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00534,2026-07-15,CL-0400,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00534,2026-07-15,CL-0400,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00535,2026-07-16,CL-0401,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00536,2026-07-16,CL-0402,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00537,2026-07-16,CL-0403,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00538,2026-07-16,CL-0404,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00539,2026-07-16,CL-0272,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta de crédito
+NX-00540,2026-07-16,CL-0332,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00540,2026-07-16,CL-0332,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00541,2026-07-17,CL-0298,Bogotá,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta débito
+NX-00542,2026-07-18,CL-0405,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00542,2026-07-18,CL-0405,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00543,2026-07-18,CL-0406,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00543,2026-07-18,CL-0406,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00544,2026-07-20,CL-0407,Bucaramanga,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta débito
+NX-00545,2026-07-21,CL-0408,Barranquilla,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00545,2026-07-21,CL-0408,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00546,2026-07-21,CL-0409,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00546,2026-07-21,CL-0409,Bucaramanga,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00546,2026-07-21,CL-0409,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00546,2026-07-21,CL-0409,Bucaramanga,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00547,2026-07-21,CL-0186,Barranquilla,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta débito
+NX-00548,2026-07-22,CL-0410,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00549,2026-07-23,CL-0411,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,2,75000,Tarjeta débito
+NX-00549,2026-07-23,CL-0411,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00550,2026-07-24,CL-0412,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00551,2026-07-25,CL-0413,Pereira,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00552,2026-07-25,CL-0414,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00553,2026-07-26,CL-0342,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta débito
+NX-00554,2026-07-26,CL-0415,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00555,2026-07-27,CL-0416,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00555,2026-07-27,CL-0416,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00556,2026-07-28,CL-0417,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00556,2026-07-28,CL-0417,Cartagena,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00557,2026-07-29,CL-0418,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00558,2026-07-29,CL-0419,Medellín,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00559,2026-07-29,CL-0420,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00559,2026-07-29,CL-0420,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00559,2026-07-29,CL-0420,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00559,2026-07-29,CL-0420,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00559,2026-07-29,CL-0420,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00560,2026-07-29,CL-0421,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00560,2026-07-29,CL-0421,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00561,2026-07-29,CL-0090,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00561,2026-07-29,CL-0090,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00562,2026-07-29,CL-0422,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00563,2026-07-29,CL-0423,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00564,2026-07-30,CL-0424,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00564,2026-07-30,CL-0424,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00565,2026-07-30,CL-0178,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00566,2026-07-31,CL-0425,Bucaramanga,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00567,2026-07-31,CL-0426,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00568,2026-07-31,CL-0427,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta débito
+NX-00569,2026-07-31,CL-0003,Cali,P17,Cámara web USB,Accesorios,2,65000,Tarjeta débito
+NX-00570,2026-08-01,CL-0428,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00571,2026-08-01,CL-0414,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00572,2026-08-01,CL-0048,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00573,2026-08-01,CL-0429,Cali,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00574,2026-08-01,CL-0430,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00574,2026-08-01,CL-0430,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00575,2026-08-01,CL-0431,Pereira,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00576,2026-08-01,CL-0051,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00576,2026-08-01,CL-0051,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00577,2026-08-02,CL-0432,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00578,2026-08-02,CL-0433,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00579,2026-08-03,CL-0434,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00580,2026-08-03,CL-0406,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00581,2026-08-03,CL-0435,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00582,2026-08-04,CL-0436,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00583,2026-08-04,CL-0437,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00583,2026-08-04,CL-0437,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00583,2026-08-04,CL-0437,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00583,2026-08-04,CL-0437,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00583,2026-08-04,CL-0437,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00583,2026-08-04,CL-0437,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00584,2026-08-05,CL-0438,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00585,2026-08-05,CL-0439,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00586,2026-08-06,CL-0440,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00587,2026-08-06,CL-0441,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00588,2026-08-07,CL-0442,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00588,2026-08-07,CL-0442,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00589,2026-08-08,CL-0443,Barranquilla,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00590,2026-08-09,CL-0444,Cartagena,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00590,2026-08-09,CL-0444,Cartagena,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00590,2026-08-09,CL-0444,Cartagena,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00590,2026-08-09,CL-0444,Cartagena,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00590,2026-08-09,CL-0444,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00591,2026-08-11,CL-0197,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00591,2026-08-11,CL-0197,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00592,2026-08-12,CL-0445,Cali,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00593,2026-08-13,CL-0446,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00594,2026-08-14,CL-0172,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00595,2026-08-14,CL-0447,Cali,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00596,2026-08-14,CL-0448,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00596,2026-08-14,CL-0448,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00597,2026-08-15,CL-0449,Bucaramanga,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00598,2026-08-15,CL-0450,Barranquilla,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00599,2026-08-17,CL-0451,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00600,2026-08-17,CL-0452,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00600,2026-08-17,CL-0452,Barranquilla,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00601,2026-08-18,CL-0453,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00601,2026-08-18,CL-0453,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00602,2026-08-19,CL-0454,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00603,2026-08-19,CL-0313,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00604,2026-08-19,CL-0455,Cali,P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,Componentes,1,1250000,Tarjeta de crédito
+NX-00605,2026-08-20,CL-0456,Bogotá,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00606,2026-08-21,CL-0457,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00606,2026-08-21,CL-0457,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00607,2026-08-21,CL-0458,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00608,2026-08-21,CL-0459,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00609,2026-08-22,CL-0460,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00609,2026-08-22,CL-0460,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00610,2026-08-22,CL-0461,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00611,2026-08-23,CL-0462,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00612,2026-08-23,CL-0463,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00613,2026-08-23,CL-0464,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00613,2026-08-23,CL-0464,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00614,2026-08-24,CL-0324,Cali,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00615,2026-08-24,CL-0093,Cartagena,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta de crédito
+NX-00616,2026-08-25,CL-0465,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00616,2026-08-25,CL-0465,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00617,2026-08-25,CL-0466,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00617,2026-08-25,CL-0466,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00618,2026-08-25,CL-0467,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00618,2026-08-25,CL-0467,Medellín,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00619,2026-08-25,CL-0468,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00620,2026-08-25,CL-0469,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00621,2026-08-26,CL-0470,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00622,2026-08-26,CL-0471,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00622,2026-08-26,CL-0471,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00623,2026-08-27,CL-0472,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00624,2026-08-27,CL-0246,Pereira,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00624,2026-08-27,CL-0246,Pereira,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00625,2026-08-27,CL-0473,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00626,2026-08-27,CL-0350,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00627,2026-08-27,CL-0474,Pereira,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00628,2026-08-27,CL-0266,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00629,2026-08-28,CL-0334,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00630,2026-08-28,CL-0475,Pereira,P11,Teclado USB Multilaser,Periféricos,3,35000,Tarjeta débito
+NX-00631,2026-08-28,CL-0143,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00632,2026-08-29,CL-0476,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00633,2026-08-29,CL-0477,Bucaramanga,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00633,2026-08-29,CL-0477,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00634,2026-08-29,CL-0478,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00634,2026-08-29,CL-0478,Barranquilla,P21,Computador de escritorio Acer Core i5,Computadores,2,1900000,Tarjeta de crédito
+NX-00635,2026-08-30,CL-0479,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00635,2026-08-30,CL-0479,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00636,2026-08-30,CL-0480,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00637,2026-08-31,CL-0481,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00638,2026-09-01,CL-0276,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta débito
+NX-00639,2026-09-01,CL-0482,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00640,2026-09-01,CL-0483,Pereira,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00640,2026-09-01,CL-0483,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00641,2026-09-03,CL-0046,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00641,2026-09-03,CL-0046,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00641,2026-09-03,CL-0046,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00642,2026-09-03,CL-0484,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00643,2026-09-04,CL-0485,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00644,2026-09-04,CL-0486,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00645,2026-09-05,CL-0209,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00646,2026-09-05,CL-0487,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00647,2026-09-06,CL-0488,Cali,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00647,2026-09-06,CL-0488,Cali,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00647,2026-09-06,CL-0488,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00647,2026-09-06,CL-0488,Cali,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00647,2026-09-06,CL-0488,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00647,2026-09-06,CL-0488,Cali,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00648,2026-09-06,CL-0489,Barranquilla,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00649,2026-09-07,CL-0051,Cartagena,P11,Teclado USB Multilaser,Periféricos,3,35000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00650,2026-09-07,CL-0490,Pereira,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00651,2026-09-08,CL-0491,Cartagena,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00651,2026-09-08,CL-0491,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00652,2026-09-08,CL-0492,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00653,2026-09-09,CL-0493,Medellín,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta débito
+NX-00654,2026-09-10,CL-0494,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,2,30000,Tarjeta de crédito
+NX-00655,2026-09-10,CL-0495,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00655,2026-09-10,CL-0495,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00655,2026-09-10,CL-0495,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00655,2026-09-10,CL-0495,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00655,2026-09-10,CL-0495,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00656,2026-09-11,CL-0496,Cartagena,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00657,2026-09-12,CL-0497,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00658,2026-09-14,CL-0498,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00658,2026-09-14,CL-0498,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00658,2026-09-14,CL-0498,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00658,2026-09-14,CL-0498,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00659,2026-09-15,CL-0499,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta débito
+NX-00660,2026-09-17,CL-0500,Pereira,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00661,2026-09-17,CL-0501,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00662,2026-09-17,CL-0502,Medellín,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta de crédito
+NX-00663,2026-09-17,CL-0503,Bucaramanga,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00664,2026-09-17,CL-0504,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00665,2026-09-19,CL-0099,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta débito
+NX-00665,2026-09-19,CL-0099,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00666,2026-09-19,CL-0505,Barranquilla,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00666,2026-09-19,CL-0505,Barranquilla,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00666,2026-09-19,CL-0505,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00666,2026-09-19,CL-0505,Barranquilla,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00667,2026-09-19,CL-0506,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00667,2026-09-19,CL-0506,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00668,2026-09-20,CL-0372,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00668,2026-09-20,CL-0372,Medellín,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00669,2026-09-20,CL-0334,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00670,2026-09-21,CL-0027,Pereira,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00671,2026-09-21,CL-0481,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00672,2026-09-22,CL-0343,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00672,2026-09-22,CL-0343,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,1,95000,Tarjeta de crédito
+NX-00673,2026-09-22,CL-0507,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00674,2026-09-23,CL-0508,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00674,2026-09-23,CL-0508,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00675,2026-09-23,CL-0509,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00675,2026-09-23,CL-0509,Bogotá,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00676,2026-09-24,CL-0184,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00677,2026-09-24,CL-0510,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00677,2026-09-24,CL-0510,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00678,2026-09-24,CL-0511,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00678,2026-09-24,CL-0511,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00679,2026-09-25,CL-0512,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00679,2026-09-25,CL-0512,Cali,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00680,2026-09-25,CL-0513,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00681,2026-09-26,CL-0514,Pereira,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00682,2026-09-27,CL-0515,Cali,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00683,2026-09-28,CL-0516,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00683,2026-09-28,CL-0516,Pereira,P17,Cámara web USB,Accesorios,2,65000,Tarjeta de crédito
+NX-00683,2026-09-28,CL-0516,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00684,2026-09-28,CL-0117,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00685,2026-09-28,CL-0176,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00686,2026-09-29,CL-0249,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00686,2026-09-29,CL-0249,Bogotá,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00687,2026-09-29,CL-0517,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00688,2026-09-29,CL-0518,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00689,2026-09-29,CL-0507,Barranquilla,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00689,2026-09-29,CL-0507,Barranquilla,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00690,2026-09-30,CL-0519,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,2,30000,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00691,2026-10-01,CL-0084,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00692,2026-10-02,CL-0129,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00692,2026-10-02,CL-0129,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00693,2026-10-03,CL-0520,Bucaramanga,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00694,2026-10-04,CL-0521,Bucaramanga,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00695,2026-10-04,CL-0522,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00695,2026-10-04,CL-0522,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00695,2026-10-04,CL-0522,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta de crédito
+NX-00696,2026-10-05,CL-0523,Cali,P19,Parlantes compactos RGB,Accesorios,3,45000,Tarjeta de crédito
+NX-00697,2026-10-05,CL-0524,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00698,2026-10-05,CL-0446,Bogotá,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00699,2026-10-05,CL-0525,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00699,2026-10-05,CL-0525,Cartagena,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00700,2026-10-05,CL-0526,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00701,2026-10-06,CL-0527,Pereira,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00701,2026-10-06,CL-0527,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00702,2026-10-06,CL-0528,Pereira,P12,Mouse gamer RGB,Periféricos,3,45000,Tarjeta débito
+NX-00702,2026-10-06,CL-0528,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00703,2026-10-06,CL-0529,Bogotá,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta de crédito
+NX-00704,2026-10-06,CL-0530,Bogotá,P17,Cámara web USB,Accesorios,2,65000,Tarjeta de crédito
+NX-00705,2026-10-06,CL-0531,Pereira,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00706,2026-10-06,CL-0532,Barranquilla,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00707,2026-10-07,CL-0419,Medellín,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00708,2026-10-07,CL-0533,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00709,2026-10-08,CL-0534,Bucaramanga,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00709,2026-10-08,CL-0534,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00710,2026-10-08,CL-0535,Cali,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00710,2026-10-08,CL-0535,Cali,P18,Hub USB 3.0 de cuatro puertos,Accesorios,3,30000,Tarjeta débito
+NX-00711,2026-10-08,CL-0536,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00711,2026-10-08,CL-0536,Bogotá,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00712,2026-10-09,CL-0537,Cali,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta débito
+NX-00713,2026-10-11,CL-0222,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00714,2026-10-11,CL-0538,Bogotá,P11,Teclado USB Multilaser,Periféricos,3,35000,Tarjeta de crédito
+NX-00715,2026-10-11,CL-0539,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00715,2026-10-11,CL-0539,Bogotá,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00716,2026-10-11,CL-0540,Pereira,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00716,2026-10-11,CL-0540,Pereira,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00717,2026-10-12,CL-0541,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta de crédito
+NX-00718,2026-10-12,CL-0542,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00719,2026-10-13,CL-0543,Pereira,P13,Diadema gamer con micrófono RGB,Periféricos,3,75000,Tarjeta débito
+NX-00720,2026-10-13,CL-0544,Medellín,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00720,2026-10-13,CL-0544,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00721,2026-10-14,CL-0545,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00722,2026-10-14,CL-0546,Cartagena,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00722,2026-10-14,CL-0546,Cartagena,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00722,2026-10-14,CL-0546,Cartagena,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,2,1650000,Tarjeta débito
+NX-00723,2026-10-14,CL-0547,Medellín,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00723,2026-10-14,CL-0547,Medellín,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00724,2026-10-15,CL-0388,Cali,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00724,2026-10-15,CL-0388,Cali,P17,Cámara web USB,Accesorios,1,65000,Tarjeta de crédito
+NX-00725,2026-10-16,CL-0504,Cartagena,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta débito
+NX-00726,2026-10-17,CL-0548,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00727,2026-10-17,CL-0549,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00727,2026-10-17,CL-0549,Medellín,P20,Computador HP Pro Tower 290 G9 Core i3,Computadores,1,1650000,Tarjeta débito
+NX-00728,2026-10-17,CL-0550,Cartagena,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta de crédito
+NX-00728,2026-10-17,CL-0550,Cartagena,P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,Componentes,1,1390000,Tarjeta de crédito
+NX-00729,2026-10-18,CL-0395,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00730,2026-10-19,CL-0551,Pereira,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00730,2026-10-19,CL-0551,Pereira,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00731,2026-10-19,CL-0552,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00731,2026-10-19,CL-0552,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta de crédito
+NX-00732,2026-10-19,CL-0553,Bogotá,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00733,2026-10-20,CL-0554,Cali,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta de crédito
+NX-00734,2026-10-21,CL-0555,Bogotá,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00735,2026-10-22,CL-0556,Bogotá,P21,Computador de escritorio Acer Core i5,Computadores,1,1900000,Tarjeta de crédito
+NX-00736,2026-10-22,CL-0557,Cali,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta de crédito
+NX-00737,2026-10-23,CL-0558,Bogotá,P11,Teclado USB Multilaser,Periféricos,2,35000,Tarjeta de crédito
+NX-00737,2026-10-23,CL-0558,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta de crédito
+NX-00738,2026-10-23,CL-0559,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00739,2026-10-24,CL-0560,Bogotá,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00740,2026-10-24,CL-0561,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00741,2026-10-24,CL-0562,Bogotá,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00742,2026-10-25,CL-0563,Cali,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00743,2026-10-25,CL-0564,Barranquilla,P17,Cámara web USB,Accesorios,2,65000,Tarjeta de crédito
+NX-00744,2026-10-26,CL-0545,Medellín,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta débito
+NX-00745,2026-10-26,CL-0565,Bucaramanga,P17,Cámara web USB,Accesorios,1,65000,Tarjeta débito
+NX-00745,2026-10-26,CL-0565,Bucaramanga,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00745,2026-10-26,CL-0565,Bucaramanga,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00746,2026-10-26,CL-0566,Barranquilla,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,2,280000,Tarjeta débito
+NX-00747,2026-10-27,CL-0567,Bogotá,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta de crédito
+NX-00748,2026-10-27,CL-0568,Medellín,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00749,2026-10-27,CL-0100,Barranquilla,P06,Tarjeta madre ASRock B650M-H/M.2+,Componentes,1,420000,Tarjeta débito
+NX-00750,2026-10-28,CL-0569,Medellín,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00751,2026-10-28,CL-0570,Bogotá,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00751,2026-10-28,CL-0570,Bogotá,P13,Diadema gamer con micrófono RGB,Periféricos,1,75000,Tarjeta de crédito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta débito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P02,Fuente de poder para PC,Componentes,1,62540,Tarjeta débito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P03,Tarjeta madre ASUS PRIME A520M-K,Componentes,1,350000,Tarjeta débito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P09,Gabinete gamer Eva Cosmic 11M,Componentes,1,200000,Tarjeta débito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta débito
+NX-00752,2026-10-28,CL-0571,Bucaramanga,P15,Unidad SSD ADATA SU650,Memoria y almacenamiento,1,160000,Tarjeta débito
+NX-00753,2026-10-28,CL-0572,Cartagena,P12,Mouse gamer RGB,Periféricos,1,45000,Tarjeta débito
+NX-00753,2026-10-28,CL-0572,Cartagena,P18,Hub USB 3.0 de cuatro puertos,Accesorios,1,30000,Tarjeta débito
+NX-00754,2026-10-29,CL-0573,Medellín,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta débito
+NX-00754,2026-10-29,CL-0573,Medellín,P19,Parlantes compactos RGB,Accesorios,1,45000,Tarjeta débito
+NX-00755,2026-10-29,CL-0574,Bogotá,P16,Memoria RAM Crucial para portátil,Memoria y almacenamiento,2,95000,Tarjeta débito
+NX-00756,2026-10-30,CL-0125,Cali,P07,Procesador Intel Core i5-12400F,Componentes,1,914000,Tarjeta de crédito
+NX-00756,2026-10-30,CL-0125,Cali,P14,Memoria RAM Corsair Vengeance RGB Pro,Memoria y almacenamiento,1,280000,Tarjeta de crédito
+NX-00757,2026-10-30,CL-0575,Barranquilla,P04,Procesador Intel Core i9 12.ª gen. (serie K),Componentes,1,2150000,Tarjeta de crédito
+NX-00757,2026-10-30,CL-0575,Barranquilla,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00758,2026-10-31,CL-0576,Bogotá,P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Componentes,1,802946,Tarjeta de crédito
+NX-00759,2026-10-31,CL-0325,Medellín,P01,Procesador AMD Ryzen 3 (3.ª gen.),Componentes,1,410000,Tarjeta de crédito
+NX-00760,2026-10-31,CL-0577,Barranquilla,P11,Teclado USB Multilaser,Periféricos,1,35000,Tarjeta de crédito
+NX-00760,2026-10-31,CL-0577,Barranquilla,P12,Mouse gamer RGB,Periféricos,2,45000,Tarjeta de crédito

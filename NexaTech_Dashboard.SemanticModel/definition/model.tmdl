@@ -1,0 +1,25 @@
+model Model
+	culture: es-CO
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	discourageImplicitMeasures
+	sourceQueryCulture: es-CO
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["RutaDatos", "Pedidos", "Productos", "Inventario", "Ciudades", "Metas"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table _Medidas
+ref table Pedidos
+ref table Productos
+ref table Inventario
+ref table Ciudades
+ref table Metas
+ref table Calendario
+
+ref cultureInfo es-CO
+

@@ -1,0 +1,113 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1161.440872508075,
+            "y": 345.31552252683764
+          },
+          "nodeIndex": "_Medidas",
+          "nodeLineageTag": "dc83d9bf-95df-4ac6-467c-9579408adbd2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 348.9745349054981,
+            "y": 227.5939173027823
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "549bfd9f-d285-1390-4c90-c156c8858f51",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 387.64598746706537,
+            "y": 740.63104505367517
+          },
+          "nodeIndex": "Ciudades",
+          "nodeLineageTag": "39ad8ce4-e2aa-e3c3-1029-dec9ec8b999d",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 336.72058236246318,
+            "y": -50
+          },
+          "nodeIndex": "Inventario",
+          "nodeLineageTag": "1fcc21f2-bc8e-7de8-4631-37911a4a989e",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 154.98552858294124
+          },
+          "nodeIndex": "Metas",
+          "nodeLineageTag": "22151cdf-5d45-76d4-3166-a1b2d8d0e567",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 638.90837262766331,
+            "y": 387.19383337377252
+          },
+          "nodeIndex": "Pedidos",
+          "nodeLineageTag": "53f27484-8ee0-35af-cd51-0facf8899377",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 927.440872508075,
+            "y": 204.97244133782715
+          },
+          "nodeIndex": "Productos",
+          "nodeLineageTag": "9d86ed7e-37ef-731a-8e90-21f62b509f05",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}

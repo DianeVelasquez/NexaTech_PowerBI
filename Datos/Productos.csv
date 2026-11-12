@@ -1,0 +1,22 @@
+ID_Producto,Producto,Nombre_Corto,Categoria,Subcategoria,Precio_Lista,Origen
+P01,Procesador AMD Ryzen 3 (3.ª gen.),Ryzen 3 (3.ª gen.),Componentes,Procesadores,410000,Catálogo
+P02,Fuente de poder para PC,Fuente de poder,Componentes,Fuentes de poder,62540,Catálogo
+P03,Tarjeta madre ASUS PRIME A520M-K,ASUS PRIME A520M-K,Componentes,Tarjetas madre,350000,Catálogo
+P04,Procesador Intel Core i9 12.ª gen. (serie K),Core i9 12.ª gen. K,Componentes,Procesadores,2150000,Catálogo
+P05,Tarjeta madre ASUS TUF Gaming B650E-E WIFI,ASUS TUF B650E-E WIFI,Componentes,Tarjetas madre,1250000,Catálogo
+P06,Tarjeta madre ASRock B650M-H/M.2+,ASRock B650M-H/M.2+,Componentes,Tarjetas madre,420000,Catálogo
+P07,Procesador Intel Core i5-12400F,Core i5-12400F,Componentes,Procesadores,914000,Página web
+P08,Tarjeta gráfica NVIDIA GeForce RTX 3050 6GB OC,RTX 3050 6GB OC,Componentes,Tarjetas gráficas,1390000,Página web
+P09,Gabinete gamer Eva Cosmic 11M,Gabinete Eva Cosmic 11M,Componentes,Gabinetes,200000,Página web
+P10,Disipador líquido Corsair iCUE Titan 360 mm RGB,Corsair iCUE Titan 360,Componentes,Refrigeración,802946,Página web
+P11,Teclado USB Multilaser,Teclado Multilaser,Periféricos,Teclados,35000,Catálogo
+P12,Mouse gamer RGB,Mouse gamer RGB,Periféricos,Mouse,45000,Catálogo y página
+P13,Diadema gamer con micrófono RGB,Diadema gamer RGB,Periféricos,Audio,75000,Catálogo
+P14,Memoria RAM Corsair Vengeance RGB Pro,RAM Corsair Vengeance,Memoria y almacenamiento,Memoria RAM,280000,Catálogo
+P15,Unidad SSD ADATA SU650,SSD ADATA SU650,Memoria y almacenamiento,Almacenamiento,160000,Catálogo
+P16,Memoria RAM Crucial para portátil,RAM Crucial portátil,Memoria y almacenamiento,Memoria RAM,95000,Catálogo
+P17,Cámara web USB,Cámara web USB,Accesorios,Video,65000,Catálogo y página
+P18,Hub USB 3.0 de cuatro puertos,Hub USB 3.0 x4,Accesorios,Conectividad,30000,Catálogo
+P19,Parlantes compactos RGB,Parlantes RGB,Accesorios,Audio,45000,Catálogo
+P20,Computador HP Pro Tower 290 G9 Core i3,HP Pro Tower 290 G9,Computadores,Escritorio oficina,1650000,Catálogo
+P21,Computador de escritorio Acer Core i5,Acer Core i5,Computadores,Escritorio hogar,1900000,Catálogo

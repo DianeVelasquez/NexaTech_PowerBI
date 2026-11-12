@@ -1,0 +1,109 @@
+table Calendario
+	lineageTag: 549bfd9f-d285-1390-4c90-c156c8858f51
+	dataCategory: Time
+
+	column Fecha
+		isKey
+		formatString: dd/mm/yyyy
+		lineageTag: 26e1c440-e538-1036-d630-d7fe220e8058
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Fecha]
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Año
+		formatString: 0
+		lineageTag: ba061cad-4c46-7d19-387e-a4766bfd403f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Año]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Mes Num'
+		isHidden
+		formatString: 0
+		lineageTag: bcb88a39-7bd5-cc11-836c-3870e8a50d7c
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Mes Num]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Nombre Mes'
+		lineageTag: ef25e833-ad0b-5a51-6b73-c4b17a943a61
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Nombre Mes]
+		sortByColumn: 'Mes Num'
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mes
+		lineageTag: b5dea1fd-5675-5a96-ef43-9244d94879dc
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Mes]
+		sortByColumn: 'Orden Mes'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Orden Mes'
+		isHidden
+		formatString: 0
+		lineageTag: 6387adc4-9049-946d-a686-a047a3c09441
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Orden Mes]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Trimestre
+		lineageTag: 42181ee4-dad6-7507-dffe-04f2224bf34f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Trimestre]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Día Semana'
+		lineageTag: d5a1df6b-d4f8-e945-1da0-f24a5ab61ccc
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Día Semana]
+		sortByColumn: 'Num Día Semana'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Num Día Semana'
+		isHidden
+		formatString: 0
+		lineageTag: b0e666c0-c079-a385-7c48-afd975c6062f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Num Día Semana]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Calendario = calculated
+		mode: import
+		source =
+				VAR Inicio = DATE ( YEAR ( MIN ( Pedidos[Fecha] ) ), MONTH ( MIN ( Pedidos[Fecha] ) ), 1 )
+				VAR Fin = EOMONTH ( MAX ( Pedidos[Fecha] ), 0 )
+				RETURN
+				    SELECTCOLUMNS (
+				        CALENDAR ( Inicio, Fin ),
+				        "Fecha", [Date],
+				        "Año", YEAR ( [Date] ),
+				        "Mes Num", MONTH ( [Date] ),
+				        "Nombre Mes", SWITCH ( MONTH ( [Date] ), 1, "Ene", 2, "Feb", 3, "Mar", 4, "Abr", 5, "May", 6, "Jun", 7, "Jul", 8, "Ago", 9, "Sep", 10, "Oct", 11, "Nov", 12, "Dic" ),
+				        "Mes", SWITCH ( MONTH ( [Date] ), 1, "Ene", 2, "Feb", 3, "Mar", 4, "Abr", 5, "May", 6, "Jun", 7, "Jul", 8, "Ago", 9, "Sep", 10, "Oct", 11, "Nov", 12, "Dic" ) & " " & RIGHT ( YEAR ( [Date] ), 2 ),
+				        "Orden Mes", YEAR ( [Date] ) * 100 + MONTH ( [Date] ),
+				        "Trimestre", "T" & ROUNDUP ( MONTH ( [Date] ) / 3, 0 ),
+				        "Día Semana", SWITCH ( WEEKDAY ( [Date], 2 ), 1, "Lun", 2, "Mar", 3, "Mié", 4, "Jue", 5, "Vie", 6, "Sáb", 7, "Dom" ),
+				        "Num Día Semana", WEEKDAY ( [Date], 2 )
+				    )
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "NexaTech_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3c9d1a1c-1c90-73a4-23b6-53e35dbe4746"
+  }
+}

@@ -1,0 +1,62 @@
+table Ciudades
+	lineageTag: 39ad8ce4-e2aa-e3c3-1029-dec9ec8b999d
+
+	column Ciudad
+		dataType: string
+		lineageTag: 8e75d05f-198c-7b37-35da-113b3d134b07
+		dataCategory: City
+		summarizeBy: none
+		sourceColumn: Ciudad
+
+		annotation SummarizationSetBy = Automatic
+
+	column Departamento
+		dataType: string
+		lineageTag: d681c1e1-2160-19e9-d815-175cf21125ee
+		dataCategory: StateOrProvince
+		summarizeBy: none
+		sourceColumn: Departamento
+
+		annotation SummarizationSetBy = Automatic
+
+	column Región
+		dataType: string
+		lineageTag: 0934690c-46ae-594d-42b9-9128cadb837c
+		summarizeBy: none
+		sourceColumn: Región
+
+		annotation SummarizationSetBy = Automatic
+
+	column Latitud
+		dataType: double
+		lineageTag: 624267e0-40fe-1665-1b2a-526ca81d988f
+		dataCategory: Latitude
+		summarizeBy: none
+		sourceColumn: Latitud
+
+		annotation SummarizationSetBy = Automatic
+
+	column Longitud
+		dataType: double
+		lineageTag: 9472a17a-ea7c-49a1-8b8b-c9355871d9e8
+		dataCategory: Longitude
+		summarizeBy: none
+		sourceColumn: Longitud
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Ciudades = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "Ciudades.csv"), [Delimiter = ",", Columns = 5, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"Ciudad", type text}, {"Departamento", type text}, {"Region", type text}, {"Latitud", type number}, {"Longitud", type number}}, "en-US"),
+				    Renombradas = Table.RenameColumns(Tipos, {{"Region", "Región"}})
+				in
+				    Renombradas
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+

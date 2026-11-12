@@ -1,0 +1,8 @@
+/// Carpeta donde están los CSV (debe terminar en \).
+expression RutaDatos = "C:\NexaTech_PowerBI\Datos\" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: 23520c08-f956-19b9-20b1-040be2a04454
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Text
+

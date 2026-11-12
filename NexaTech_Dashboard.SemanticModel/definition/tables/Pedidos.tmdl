@@ -1,0 +1,100 @@
+table Pedidos
+	lineageTag: 53f27484-8ee0-35af-cd51-0facf8899377
+
+	column ID_Pedido
+		dataType: string
+		lineageTag: a25da3c7-36a4-32ed-844c-7ff2c12b98a8
+		summarizeBy: none
+		sourceColumn: ID_Pedido
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha
+		dataType: dateTime
+		formatString: dd/mm/yyyy
+		lineageTag: 26e1c440-e538-1036-d630-d7fe220e8058
+		summarizeBy: none
+		sourceColumn: Fecha
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column ID_Cliente
+		dataType: string
+		lineageTag: e4d7f492-f13d-da81-1bb9-a8e6353a2e47
+		summarizeBy: none
+		sourceColumn: ID_Cliente
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ciudad
+		dataType: string
+		isHidden
+		lineageTag: 8e75d05f-198c-7b37-35da-113b3d134b07
+		summarizeBy: none
+		sourceColumn: Ciudad
+
+		annotation SummarizationSetBy = Automatic
+
+	column ID_Producto
+		dataType: string
+		isHidden
+		lineageTag: 2a503f63-67eb-9f98-5490-d0d234482aff
+		summarizeBy: none
+		sourceColumn: ID_Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cantidad
+		dataType: int64
+		formatString: #,0
+		lineageTag: 9698fca3-0acf-c1f8-6e99-71e1601086dc
+		summarizeBy: sum
+		sourceColumn: Cantidad
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Precio Unitario'
+		dataType: int64
+		formatString: \$#,0
+		lineageTag: e8fa643f-ac8a-4673-7506-23342187e162
+		summarizeBy: none
+		sourceColumn: Precio Unitario
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Método de Pago'
+		dataType: string
+		lineageTag: 5b3a3cab-7f58-94fb-6532-2b27c30d15a4
+		summarizeBy: none
+		sourceColumn: Método de Pago
+
+		annotation SummarizationSetBy = Automatic
+
+	column Importe
+		dataType: int64
+		formatString: \$#,0
+		lineageTag: 7c019f43-892a-8040-8297-f7ba071b14c4
+		summarizeBy: sum
+		sourceColumn: Importe
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Pedidos = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "Pedidos.csv"), [Delimiter = ",", Columns = 10, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				    QuitarDescriptivas = Table.RemoveColumns(Encabezados, {"Producto", "Categoria"}),
+				    Tipos = Table.TransformColumnTypes(QuitarDescriptivas, {{"ID_Pedido", type text}, {"Fecha", type date}, {"ID_Cliente", type text}, {"Ciudad", type text}, {"ID_Producto", type text}, {"Cantidad", Int64.Type}, {"Precio_Unitario", Int64.Type}, {"Metodo_Pago", type text}}, "en-US"),
+				    Renombradas = Table.RenameColumns(Tipos, {{"Precio_Unitario", "Precio Unitario"}, {"Metodo_Pago", "Método de Pago"}}),
+				    ConImporte = Table.AddColumn(Renombradas, "Importe", each [Cantidad] * [Precio Unitario], Int64.Type)
+				in
+				    ConImporte
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+

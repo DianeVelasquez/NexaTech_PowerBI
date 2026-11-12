@@ -1,0 +1,18 @@
+{
+  "config": "{\"version\": \"5.55\", \"activeSectionIndex\": 0, \"defaultDrillFilterOtherVisuals\": true}",
+  "layoutOptimization": 0,
+  "sections": [
+    {
+      "name": "db2c134f066117bf2df0",
+      "displayName": "Página 1",
+      "displayOption": 1,
+      "width": 1280,
+      "height": 720,
+      "config": "{}",
+      "filters": "[]",
+      "ordinal": 0,
+      "visualContainers": []
+    }
+  ],
+  "filters": "[]"
+}

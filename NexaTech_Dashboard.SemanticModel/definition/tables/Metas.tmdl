@@ -1,0 +1,38 @@
+table Metas
+	lineageTag: 22151cdf-5d45-76d4-3166-a1b2d8d0e567
+
+	column Mes
+		dataType: dateTime
+		isHidden
+		formatString: dd/mm/yyyy
+		lineageTag: b5dea1fd-5675-5a96-ef43-9244d94879dc
+		summarizeBy: none
+		sourceColumn: Mes
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Meta_Ventas
+		dataType: int64
+		formatString: \$#,0
+		lineageTag: c542a8ec-c7e4-1632-326c-8632a4f22acd
+		summarizeBy: sum
+		sourceColumn: Meta_Ventas
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Metas = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "Metas.csv"), [Delimiter = ",", Columns = 2, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"Mes", type date}, {"Meta_Ventas", Int64.Type}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+

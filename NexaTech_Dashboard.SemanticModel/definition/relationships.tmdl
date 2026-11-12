@@ -1,0 +1,20 @@
+relationship 0b838601-7b1b-d2f6-cf12-de4a9c57433d
+	fromColumn: Pedidos.ID_Producto
+	toColumn: Productos.ID_Producto
+
+relationship 583238f5-7c68-aed0-d6e8-cb36cf41a764
+	fromColumn: Pedidos.Ciudad
+	toColumn: Ciudades.Ciudad
+
+relationship 6fbbbf42-8e74-f1ae-3680-10b9f9acc345
+	fromColumn: Pedidos.Fecha
+	toColumn: Calendario.Fecha
+
+relationship 4b671357-2d0f-222c-c97d-b0dbf84e3454
+	fromColumn: Metas.Mes
+	toColumn: Calendario.Fecha
+
+relationship 1a819263-509d-7802-4b56-8cc127ada32e
+	fromColumn: Inventario.ID_Producto
+	toColumn: Productos.ID_Producto
+

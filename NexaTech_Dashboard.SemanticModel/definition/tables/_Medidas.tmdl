@@ -1,0 +1,202 @@
+table _Medidas
+	lineageTag: dc83d9bf-95df-4ac6-467c-9579408adbd2
+
+	/// Ingresos = Σ Cantidad × Precio unitario.
+	measure 'Ventas Totales' = SUM ( Pedidos[Importe] )
+		formatString: \$#,0
+		displayFolder: 1. Ventas
+		lineageTag: ae23078b-a3f7-255e-52ee-a169703c4e3e
+
+	/// Unidades vendidas.
+	measure 'Unidades Vendidas' = SUM ( Pedidos[Cantidad] )
+		formatString: #,0
+		displayFolder: 1. Ventas
+		lineageTag: aa037a67-f525-2d47-e5fa-a64b47a6a9fb
+
+	/// Pedidos distintos (un pedido puede tener varias líneas).
+	measure 'Total Pedidos' = DISTINCTCOUNT ( Pedidos[ID_Pedido] )
+		formatString: #,0
+		displayFolder: 1. Ventas
+		lineageTag: a481d9fb-efbb-e2d2-5544-a70d64598d6e
+
+	/// Valor promedio por pedido.
+	measure 'Ticket Promedio' = DIVIDE ( [Ventas Totales], [Total Pedidos] )
+		formatString: \$#,0
+		displayFolder: 1. Ventas
+		lineageTag: 5402c69d-4fa8-25dc-5fcd-20bea2a0acc0
+
+	/// Meta mensual de ventas definida por la tienda.
+	measure 'Meta Ventas' =
+			-- La meta es global: solo se muestra si no hay filtros de producto/categoría o ciudad
+			IF (
+			    ISFILTERED ( Productos ) || ISFILTERED ( Ciudades ),
+			    BLANK (),
+			    SUM ( Metas[Meta_Ventas] )
+			)
+		formatString: \$#,0
+		displayFolder: 1. Ventas
+		lineageTag: d418abfa-a009-d4fe-bc62-f231ece81498
+
+	/// Ventas / Meta.
+	measure '% Cumplimiento Meta' = DIVIDE ( [Ventas Totales], [Meta Ventas] )
+		formatString: 0%
+		displayFolder: 1. Ventas
+		lineageTag: 0544263d-8d10-1fa0-314e-31a089021543
+
+	/// Peso de cada categoría, producto o ciudad sobre el total visible.
+	measure '% Participación' =
+			DIVIDE (
+			    [Ventas Totales],
+			    CALCULATE ( [Ventas Totales], ALLSELECTED ( Productos ), ALLSELECTED ( Ciudades ) )
+			)
+		formatString: 0.0%
+		displayFolder: 1. Ventas
+		lineageTag: b8cfb0a5-e1a9-a3e7-24cb-94e07e4e295c
+
+	/// Ventas solo de los 8 productos con más ingresos (para el ranking).
+	measure 'Ventas Top 8' =
+			VAR Ventas = [Ventas Totales]
+			VAR Posicion = RANKX ( ALLSELECTED ( Productos[Nombre Corto] ), [Ventas Totales], , DESC )
+			RETURN
+			    IF ( NOT ISBLANK ( Ventas ) && Posicion <= 8, Ventas )
+		formatString: \$#,0
+		displayFolder: 1. Ventas
+		lineageTag: 633a144e-55fd-6fb4-2894-7b95d6c0b659
+
+	/// Clientes distintos que compraron.
+	measure 'Clientes Únicos' = DISTINCTCOUNT ( Pedidos[ID_Cliente] )
+		formatString: #,0
+		displayFolder: 2. Clientes
+		lineageTag: 1bbb3c1d-e0fd-19db-35ac-08c89aac5cd6
+
+	/// Clientes con 2 o más pedidos en el periodo seleccionado.
+	measure 'Clientes Recurrentes' =
+			COUNTROWS (
+			    FILTER (
+			        VALUES ( Pedidos[ID_Cliente] ),
+			        CALCULATE ( DISTINCTCOUNT ( Pedidos[ID_Pedido] ) ) > 1
+			    )
+			)
+		formatString: #,0
+		displayFolder: 2. Clientes
+		lineageTag: 8834a3ff-b40f-f10a-b662-5215f2b066ae
+
+	/// Clientes recurrentes / clientes únicos.
+	measure '% Recompra' = DIVIDE ( [Clientes Recurrentes], [Clientes Únicos] )
+		formatString: 0%
+		displayFolder: 2. Clientes
+		lineageTag: fcfb7dde-5037-aceb-a5be-ba351a25cedb
+
+	/// Unidades disponibles a la fecha de corte.
+	measure 'Stock Actual' = SUM ( Inventario[Stock_Actual] )
+		formatString: #,0
+		displayFolder: 3. Inventario
+		lineageTag: d12959a6-09ed-31d0-9217-5f9f8c41091c
+
+	/// Nivel de stock en el que se debe pedir al proveedor.
+	measure 'Punto de Reorden' = SUM ( Inventario[Punto_Reorden] )
+		formatString: #,0
+		displayFolder: 3. Inventario
+		lineageTag: 39e0e496-8e72-e5e3-8c81-7525bc0a705e
+
+	/// Unidades promedio por día en los últimos 90 días (no depende de los filtros de fecha ni ciudad).
+	measure 'Demanda Diaria 90d' =
+			VAR Corte = CALCULATE ( MAX ( Inventario[Fecha_Corte] ), REMOVEFILTERS () )
+			VAR Unidades90 =
+			    CALCULATE (
+			        [Unidades Vendidas],
+			        REMOVEFILTERS ( Calendario ),
+			        REMOVEFILTERS ( Ciudades ),
+			        FILTER ( ALL ( Calendario[Fecha] ), Calendario[Fecha] > Corte - 90 && Calendario[Fecha] <= Corte )
+			    )
+			RETURN
+			    DIVIDE ( Unidades90, 90 )
+		formatString: 0.00
+		displayFolder: 3. Inventario
+		lineageTag: a33f15ab-146c-2e92-30ae-42a3157c261f
+
+	/// Días que alcanza el stock al ritmo de venta actual.
+	measure 'Días de Cobertura' = DIVIDE ( [Stock Actual], [Demanda Diaria 90d] )
+		formatString: #,0
+		displayFolder: 3. Inventario
+		lineageTag: 6e1d3659-2b47-9283-337b-14b2255d987f
+
+	/// Agotado = 0 · Reponer ≤ punto de reorden · Vigilar ≤ 1,5 × punto de reorden.
+	measure 'Estado Inventario' =
+			VAR Stock = [Stock Actual]
+			VAR Reorden = [Punto de Reorden]
+			RETURN
+			    SWITCH (
+			        TRUE (),
+			        ISBLANK ( Stock ), BLANK (),
+			        Stock = 0, "🔴 Agotado",
+			        Stock <= Reorden, "🟠 Reponer",
+			        Stock <= Reorden * 1.5, "🟡 Vigilar",
+			        "🟢 Suficiente"
+			    )
+		displayFolder: 3. Inventario
+		lineageTag: 2154ac9b-4e6c-a169-2161-d7c1b8214d33
+
+	/// Productos agotados o por debajo del punto de reorden.
+	measure 'Productos a Reponer' =
+			COUNTROWS (
+			    FILTER ( VALUES ( Productos[ID_Producto] ), [Stock Actual] <= [Punto de Reorden] )
+			) + 0
+		formatString: #,0
+		displayFolder: 3. Inventario
+		lineageTag: 88cf2b88-518b-d8fb-d6f5-bf34fcb8b445
+
+	/// Productos con stock 0.
+	measure 'Productos Agotados' =
+			COUNTROWS (
+			    FILTER ( VALUES ( Productos[ID_Producto] ), [Stock Actual] = 0 )
+			) + 0
+		formatString: #,0
+		displayFolder: 3. Inventario
+		lineageTag: 27b8fa31-e964-6c6b-f62c-a96ffd46d380
+
+	/// Subtítulo de la tarjeta de ventas.
+	measure 'Texto Meta' =
+			VAR Cumplimiento = [% Cumplimiento Meta]
+			RETURN
+			    IF (
+			        ISBLANK ( Cumplimiento ),
+			        "Meta: ver sin filtros",
+			        IF ( Cumplimiento >= 1, "▲ ", "▼ " ) & FORMAT ( Cumplimiento, "0%" ) & " de la meta"
+			    )
+		displayFolder: 4. Textos KPI
+		lineageTag: 184b6721-ccb7-236e-f205-ba5f4efd2088
+
+	/// Subtítulo de la tarjeta de pedidos.
+	measure 'Texto Pedidos' = FORMAT ( [Unidades Vendidas], "#,0" ) & " unidades"
+		displayFolder: 4. Textos KPI
+		lineageTag: 3d1b28ae-9b04-1dc1-506d-187363574ae2
+
+	/// Subtítulo de la tarjeta de ticket.
+	measure 'Texto Ticket' = FORMAT ( DIVIDE ( [Unidades Vendidas], [Total Pedidos] ), "0.0" ) & " unid. por pedido"
+		displayFolder: 4. Textos KPI
+		lineageTag: 51c5260a-b90a-61b9-4d29-64d00e0f601a
+
+	/// Subtítulo de la tarjeta de clientes.
+	measure 'Texto Clientes' = FORMAT ( [% Recompra], "0%" ) & " volvió a comprar"
+		displayFolder: 4. Textos KPI
+		lineageTag: 14503394-33e1-d22e-83c5-7357575d6172
+
+	/// Subtítulo de la tarjeta de inventario.
+	measure 'Texto Inventario' = [Productos Agotados] & " agotado · " & ( [Productos a Reponer] - [Productos Agotados] ) & " por reponer"
+		displayFolder: 4. Textos KPI
+		lineageTag: 6163debb-a374-b9f7-41a8-065286f769d5
+
+	column Columna
+		isHidden
+		lineageTag: 6ca41f30-5470-be98-a6f2-85760706667e
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Columna]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Medidas = calculated
+		mode: import
+		source = ROW ( "Columna", 0 )
+

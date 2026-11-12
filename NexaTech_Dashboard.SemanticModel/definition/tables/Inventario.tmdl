@@ -1,0 +1,73 @@
+table Inventario
+	lineageTag: 1fcc21f2-bc8e-7de8-4631-37911a4a989e
+
+	column ID_Producto
+		dataType: string
+		isHidden
+		lineageTag: 2a503f63-67eb-9f98-5490-d0d234482aff
+		summarizeBy: none
+		sourceColumn: ID_Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Stock_Actual
+		dataType: int64
+		formatString: #,0
+		lineageTag: 4557ca37-fedc-df41-7421-00cd1891af63
+		summarizeBy: sum
+		sourceColumn: Stock_Actual
+
+		annotation SummarizationSetBy = Automatic
+
+	column Punto_Reorden
+		dataType: int64
+		formatString: #,0
+		lineageTag: f3221887-3c7e-a6a7-ad93-4407ad794acf
+		summarizeBy: sum
+		sourceColumn: Punto_Reorden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Stock_Seguridad
+		dataType: int64
+		formatString: #,0
+		lineageTag: 94631dd3-c24b-a8ef-c873-28941d4b702a
+		summarizeBy: sum
+		sourceColumn: Stock_Seguridad
+
+		annotation SummarizationSetBy = Automatic
+
+	column Lead_Time_Dias
+		dataType: int64
+		formatString: #,0
+		lineageTag: bd2085ea-b420-a8a5-8253-06397d9219cc
+		summarizeBy: none
+		sourceColumn: Lead_Time_Dias
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha_Corte
+		dataType: dateTime
+		formatString: dd/mm/yyyy
+		lineageTag: 94f1a3df-3a3c-525f-3b02-2291f8b1c19f
+		summarizeBy: none
+		sourceColumn: Fecha_Corte
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition Inventario = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "Inventario.csv"), [Delimiter = ",", Columns = 6, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"ID_Producto", type text}, {"Stock_Actual", Int64.Type}, {"Punto_Reorden", Int64.Type}, {"Stock_Seguridad", Int64.Type}, {"Lead_Time_Dias", Int64.Type}, {"Fecha_Corte", type date}}, "en-US")
+				in
+				    Tipos
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "NexaTech_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7b7d3181-9648-b3e0-bcdc-d0c53bbcca80"
+  }
+}

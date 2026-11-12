@@ -1,0 +1,75 @@
+table Productos
+	lineageTag: 9d86ed7e-37ef-731a-8e90-21f62b509f05
+
+	column ID_Producto
+		dataType: string
+		lineageTag: 2a503f63-67eb-9f98-5490-d0d234482aff
+		summarizeBy: none
+		sourceColumn: ID_Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Producto
+		dataType: string
+		lineageTag: b3d306de-5f70-5c4a-a487-886441091ad7
+		summarizeBy: none
+		sourceColumn: Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Nombre Corto'
+		dataType: string
+		lineageTag: c9aed426-08c2-4f12-779d-f4edd3bd83fb
+		summarizeBy: none
+		sourceColumn: Nombre Corto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Categoría
+		dataType: string
+		lineageTag: 19e545cc-02d2-cf77-a352-ac62989695d6
+		summarizeBy: none
+		sourceColumn: Categoría
+
+		annotation SummarizationSetBy = Automatic
+
+	column Subcategoría
+		dataType: string
+		lineageTag: 35040314-9c98-ac11-958c-d10ceff19d48
+		summarizeBy: none
+		sourceColumn: Subcategoría
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Precio Lista'
+		dataType: int64
+		formatString: \$#,0
+		lineageTag: eeb2561e-f7b2-cd43-137c-616eef106843
+		summarizeBy: none
+		sourceColumn: Precio Lista
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Fuente del Producto'
+		dataType: string
+		lineageTag: c4fe4799-3e79-333b-ecac-ef670ec92cde
+		summarizeBy: none
+		sourceColumn: Fuente del Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Productos = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents(RutaDatos & "Productos.csv"), [Delimiter = ",", Columns = 7, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Encabezados = Table.PromoteHeaders(Origen, [PromoteAllScalars = true]),
+				    Tipos = Table.TransformColumnTypes(Encabezados, {{"ID_Producto", type text}, {"Producto", type text}, {"Nombre_Corto", type text}, {"Categoria", type text}, {"Subcategoria", type text}, {"Precio_Lista", Int64.Type}, {"Origen", type text}}, "en-US"),
+				    Renombradas = Table.RenameColumns(Tipos, {{"Nombre_Corto", "Nombre Corto"}, {"Categoria", "Categoría"}, {"Subcategoria", "Subcategoría"}, {"Precio_Lista", "Precio Lista"}, {"Origen", "Fuente del Producto"}})
+				in
+				    Renombradas
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+
